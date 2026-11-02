@@ -11,8 +11,6 @@ Big Data Analytics student (Manisa Celal Bayar University, TR) building things w
 ![Kimi](https://img.shields.io/badge/Kimi-1F2937?logo=kimi&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFB?logo=deepseek&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-FA500F?logo=mistralai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F)
-![GLM](https://img.shields.io/badge/GLM-2563EB)
 
 * 🔭 **Current project:** **TxtNote** — a local-first work environment app that makes thesis writing easier for university students. It's a brand-new open-source project, currently in active development.
 * 🌱 **Learning:** data structures \& algorithms, statistics, and English (A2 → B1)
