@@ -4,13 +4,16 @@ Big Data Analytics student (Manisa Celal Bayar University, TR) building things w
 
 [![My Skills](https://skillicons.dev/icons?i=python,git,github)](https://skillicons.dev)
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3673?logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
-![Kimi](https://img.shields.io/badge/Kimi-1F2937?logo=kimi&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFB?logo=deepseek&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FA500F?logo=mistralai&logoColor=white)
+![AI](https://img.shields.io/badge/AI-8A2BE2)
+![ML](https://img.shields.io/badge/ML-8A2BE2)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2)
+![Data Science](https://img.shields.io/badge/Data_Science-8A2BE2)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 
 * 🔭 **Current project:** **TxtNote** — a local-first work environment app that makes thesis writing easier for university students. It's a brand-new open-source project, currently in active development(Currently closed source, contact via DM if you are interested)
 * 🌱 **Learning:** data structures \& algorithms, statistics, and English
