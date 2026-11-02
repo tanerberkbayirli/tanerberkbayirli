@@ -11,9 +11,9 @@ Big Data Analytics student (Manisa Celal Bayar University, TR) building things w
 
 ## 📊 GitHub Stats
 
-![Taner's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanerberkbayirli&show_icons=true&hide_border=true&theme=transparent)
+<p><img src="profile-summary-cards/0-profile-details.svg" alt="Profile details" width="49%">&nbsp;<img src="profile-summary-cards/3-stats.svg" alt="Stats" width="49%"></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanerberkbayirli&layout=compact&hide_border=true&theme=transparent)
+<p><img src="profile-summary-cards/1-repos-per-language.svg" alt="Repos per language" width="49%">&nbsp;<img src="profile-summary-cards/2-most-commit-language.svg" alt="Most commit language" width="49%"></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tanerberkbayirli&hide_border=true&theme=transparent&locale=en)
+![GitHub Streak](https://streak-stats.demolab.com?user=tanerberkbayirli&hide_border=true&theme=github-dark-blue&locale=en)
 
