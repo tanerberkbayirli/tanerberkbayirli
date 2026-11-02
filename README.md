@@ -11,9 +11,9 @@ Big Data Analytics student (Manisa Celal Bayar University, TR) building things w
 
 ## 📊 GitHub Stats
 
-<p><img src="profile-summary-cards/0-profile-details.svg" alt="Profile details" width="49%">&nbsp;<img src="profile-summary-cards/3-stats.svg" alt="Stats" width="49%"></p>
+<p><img src="profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="49%">&nbsp;<img src="profile-summary-card-output/github/3-stats.svg" alt="Stats" width="49%"></p>
 
-<p><img src="profile-summary-cards/1-repos-per-language.svg" alt="Repos per language" width="49%">&nbsp;<img src="profile-summary-cards/2-most-commit-language.svg" alt="Most commit language" width="49%"></p>
+<p><img src="profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per language" width="49%">&nbsp;<img src="profile-summary-card-output/github/2-most-commit-language.svg" alt="Most commit language" width="49%"></p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tanerberkbayirli&hide_border=true&theme=github-dark-blue&locale=en)
 
