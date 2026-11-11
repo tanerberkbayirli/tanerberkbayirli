@@ -15,7 +15,6 @@ Big Data Analytics student (Manisa Celal Bayar University, TR) building things w
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-FFD21E)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 
-* 🔭 **Current project:** **TxtNote** — a local-first work environment app that makes thesis writing easier for university students. It's a brand-new open-source project, currently in active development(Currently closed source, contact via DM if you are interested)
 * 🌱 **Learning:** data structures \& algorithms, statistics, and English
 * 🎯 **Hobbies:** keeping up with tech and AI news, testing newly released AI models, and solving my own problems with AI. Beyond that, I closely follow the blockchain space and languages like Rust — and I actively use blockchain technologies.
 * ⚡ **Fun fact:** I test AI agents for a living — my own second computer brain runs on one
